@@ -158,9 +158,8 @@ gives access to the electrical rules check (ERC) tool.
 This tool performs a design verification and is particularly useful to
 detect forgotten connections, and inconsistencies.
 
-Once you have run ERC, Eeschema places markers on the pins or labels
-able to highlight a problem. The diagnosis can then be given by left
-clicking on the marker. An errors file can also be generated.
+Once you have run the ERC, Eeschema places markers to highlight problems.
+The diagnosis can then be given by left clicking on the marker. An error file can also be generated.
 
 [[main-erc-dialog]]
 Main ERC dialog
