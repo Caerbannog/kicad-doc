@@ -186,7 +186,7 @@ Commands:
 
 Note:
 
-* When clicking on an error message, jump to the corresponding marker in
+* Clicking on an error message jumps to the corresponding marker in the
 schematic.
 
 [[erc-options-dialog]]
@@ -315,7 +315,7 @@ Note for Pcbnew
 ^^^^^^^^^^^^^^^
 
 Using the .cmp file or the netlist only to assign a footprint to a
-component is a choice in side Pcbnew.
+component is a choice inside Pcbnew.
 
 When Pcbnew does not find a .cmp file corresponding to the .net file, it
 uses the component footprint/reference found in the .net file.
