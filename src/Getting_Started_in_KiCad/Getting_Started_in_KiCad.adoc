@@ -1081,7 +1081,7 @@ Make schematic components with quicklib
 ---------------------------------------
 
 This section presents an alternative way of creating the schematic
-component for MYCONN3 (refer to page 9) using the Inter net tool
+component for MYCONN3 (refer to page 9) using the Internet tool
 __quicklib__.
 
 1.  Head to the _quicklib_ we bpage:
