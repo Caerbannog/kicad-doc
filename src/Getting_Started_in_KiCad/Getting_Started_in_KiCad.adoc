@@ -9,46 +9,33 @@
 _Essential and concise guide to mastering KiCad for the successful
 development of sophisticated electronic printed circuit boards._
 
-[[copyright]]
 *Copyright*
 
-This document is Copyright © 2010–2015 by its contributors as listed
-below. You may distribute it and/or modify it under the terms of either
+This document is Copyright (C) 2010-2015 by its contributors as listed
+in link:../../CONTRIBUTORS.txt[CONTRIBUTORS.txt]. You may distribute it and/or modify it under the terms of either
 the GNU General Public License (http://www.gnu.org/licenses/gpl.html),
 version 3 or later, or the Creative Commons Attribution License
 (http://creativecommons.org/licenses/by/3.0/), version 3.0 or later.
 
 All trademarks within this guide belong to their legitimate owners.
 
-[[contributors]]
-*Contributors*
-
-David Jahshan, Phil Hutchinson, Fabrizio Tappero, Christina Jarron, Melroy van den Berg.
-
-[[feedback]]
 *Feedback*
 
-Please direct any comments or suggestions about this document to:
+For comments, suggestions, or updating this document please refer to:
 
-Fabrizio Tappero: fabrizio.tappero<at>gmail.com, David Jahshan:
-kicad<at>iridec.com.au, or Melroy van den Berg: webmaster1989<at>gmail.com
+https://github.com/ciampix/kicad-doc#contributing
 
-Alternatively, submit comments or your new version to:
+For bug reports, feature suggestion, or helping with KiCad's development see:
 
-https://github.com/ciampix/kicad-doc
-
-[[acknowledgments]]
-*Acknowledgments*
-
-None
+http://www.kicad-pcb.org/display/DEV/KiCad+Development
+and
+https://bugs.launchpad.net/kicad/
 
 *Publication date*
 
-2015, May 16.
-
-*Note for Mac users*
-
-The KiCad support for the Apple OS X operating system is experimental.
+{docdate}, 
+ifdef::revnumber[rev {revnumber}]
+ifndef::revnumber[revision unknown]
 
 [[introduction-to-kicad]]
 == Introduction to KiCad
